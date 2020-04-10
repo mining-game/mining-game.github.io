@@ -1,2 +1,0 @@
-(this["webpackJsonpmining-game.github.io"]=this["webpackJsonpmining-game.github.io"]||[]).push([[0],{3:function(n,t,e){n.exports=e(4)},4:function(n,t,e){"use strict";e.r(t);var i=e(0),o=e.n(i),u=e(2),a=e.n(u);e(9);a.a.render(o.a.createElement("input",null),document.getElementById("root"))},9:function(n,t,e){}},[[3,1,2]]]);
-//# sourceMappingURL=main.78d4b433.chunk.js.map
