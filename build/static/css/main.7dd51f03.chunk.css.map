@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,gBACF,CAEA,EACE,SAAU,CACV,QACF,CAEA,KACE,kBAAyB,CAAzB,wBAAyB,CACzB,YAAa,CACb,WACF","file":"main.7dd51f03.chunk.css","sourcesContent":[":root {\n  --color1: rgb(118, 255, 163);\n}\n\n* {\n  padding: 0;\n  margin: 0;\n}\n\n.app {\n  background: var(--color1);\n  height: 100vh;\n  width: 100vw;\n}"]}

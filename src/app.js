@@ -3,7 +3,9 @@ import React from 'react';
 class App extends React.Component {
     render() {
         return (
-        <p>12345678</p>
+            <div className="app">
+
+            </div>
         );
     }
 }
